@@ -5,9 +5,10 @@
 
 
 ## 2. How to run the code
+* Click **clone or download** button and unzip the downloaded .zip file.
 * Open a terminal / Command prompt and browse to the directory where you have unzipped the zip file
-* Type cd moizgsoc to enter the folder of the project.
-  Note:- replace moizgsoc with any name you have given to the folder while unzipping it.
+* Type **_cd GSoC_AllPixSquared_Task2_**  to enter the folder of the project.
+  *Note:- replace GSoC_AllPixSquared_Task2 with any name you have given to the folder while unzipping it.*
 * Type the following Command for compiling the code:
   * For windows:
     **_g++ -std=c++11 -pthread main.cpp DataPOJO.cpp BaseModule.cpp Module1.cpp Module2.cpp -o main.exe_**
